@@ -1,0 +1,2 @@
+# exitintent
+Exit intent function 
